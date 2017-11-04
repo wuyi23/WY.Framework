@@ -2,6 +2,9 @@
 
 namespace WY.Framework.File
 {
+    /// <summary>
+    /// 使用Npoi操作Excel
+    /// </summary>
     public interface IExcelNpoi
     {
         /// <summary>
